@@ -1,3 +1,4 @@
+![vandu](https://user-images.githubusercontent.com/120396205/207327297-daa0c5ef-5cfe-4fe6-8d42-e8de541290c9.jpg)
 # mycv
 <!DOCTYPE html>
 <html lang="en">
