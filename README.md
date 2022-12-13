@@ -14,8 +14,7 @@
         for more updates follow me on <a href="">instagram</a></em> </p></td>
     </tr>
   </table>
-   
-    <hr>
+   <hr>
     <h3> First of all i want to tell you about my hobbies :</h3>
       <ul>
         <li>singing</li>
@@ -84,4 +83,3 @@
     </form>
 </body>
 </html>
-
