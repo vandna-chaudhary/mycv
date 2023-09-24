@@ -8,7 +8,7 @@
 <body>
   <table cellspacing ="20">
     <tr>
-      <td> <img src="C:\Users\hp\Pictures\vandu" width="200"></td>
+      <td> <img src="./images/vandna.png" width="200"></td>
       <td> <h1>welocome to my website</h1>
         <p> <em> Hi everyone<strong> welocome to my website </strong>,here you gonna know about how i started my journey in coding.
         for more updates follow me on <a href="https://www.instagram.com/vandna._.chaudhary/">instagram</a></em> </p></td>
