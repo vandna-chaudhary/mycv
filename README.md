@@ -35,7 +35,7 @@
       </table>
       <hr>
       <h3>Skills</h3>
-      <table border="1" cellspacing="10">
+      <table  cellspacing="10">
         <tr>
           <td>c++ </td>
           <td>🌻🌻🌻</td>
